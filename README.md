@@ -1,4 +1,4 @@
-# ENSE271-Lab-Assignments
+# ENSE271-Portfolio
 Overview
 Welcome to my People-Centered Design Labs Repository! 
 This collection showcases my work exploring human-centered design principles, usability, and accessibility in software and web development. Each lab focuses on creating intuitive, engaging, and user-friendly experiences through iterative design, user feedback, and modern development techniques.
